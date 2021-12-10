@@ -1,11 +1,5 @@
 #New Pewal International Design :raised_hands:
 
-[![Docs UI Kit - A beautiful Open Source Bootstrap 4 UI Kit](https://htmlstream.com/preview/docs-ui-kit/docs-ui-kit-thumbnail.jpg)](https://htmlstream.com/preview/docs-ui-kit/)
-
-Docs UI Kit is beautiful Open Source Bootstrap 4 UI Kit under MIT license.
-The UI Kit comes with 10 beautiful complete and functional pages including lots of reusable and customizable UI Blocks. Every component crafted with love to speed up your workflow.
-
-
 ### What’s Included
 
 The download package includes .zip folder, please unzip the compressed folder and you’ll find the following directories and files including all raw source files:
